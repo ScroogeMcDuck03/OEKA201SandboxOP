@@ -1,7 +1,21 @@
-Oskar Pettersson Student ID.: 232235
-Andreas Moen Student ID.: 232826
-Philip Jacoibsen Student ID.: 232798
+# OEKA202Assignment
+
+## Insert name of group members here
+- Oskar Pettersson Student ID.: 
+- Andreas Moen Student ID.: 
+- Philip Jacoibsen Student ID.: 
+
+## Confirmation
+### Part 1
+JIH, confirmed. 
+### Part 2
+JIH, confirmed. 
+### Part 3
+
+**Note:**
+
+* You may need to run **Build + Install** in RStudio for the web page to function properly.
+* An **AI assessment** feature has been added (experimental). You can continue the conversation in `ai_conv.R` if desired.
 
 
-I believe we are done with the assignment. I´m not fully sure if we did everything but i believe so. 
-Go to OEKA201 -> OEKA201AssignmentOPAMPJ. I tried to make create different formats and on a second webpage but i did not work. So just ignore the "WordFormat.qmd" and "MS-WordFormat.R". 
+
